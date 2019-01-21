@@ -1,7 +1,6 @@
 language: objective-c
 
 xcode_project: UDApp.xcodeproj
-xcode_workspace: UDApp.xcworkspace
 xcode_scheme: UDApp
 
 before_install: cd UDApp
